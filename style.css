@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #AFEEEE;
+    
+}
+h1 {
+    color: rgb(199, 102, 199);
+}
+
+footer p {
+    background-color: plum;
+}
+
+nav {
+    border: 5px solid rgb(235, 231, 231); margin: 5px;
+}
+
+.ty {
+    background-color: #AFEEEE;
+}
+
+h2 {
+    color: blue;
+}
+
+.ss {
+    border: 5px solid black; text-decoration: none; padding: 5px;
+}
